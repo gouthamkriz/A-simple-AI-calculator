@@ -1,4 +1,4 @@
-# Project 1
+# A-simple-AI-calculator
 
 ## About
 
